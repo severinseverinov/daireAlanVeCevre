@@ -14,7 +14,6 @@ public class DaireAC {
 
         double alan = (PI * (r*r) * alfa) / 360;
 
-
         System.out.println("Girilen değerlere göre daira diliminin alanı : "+alan+"dır.");
 
     }
